@@ -1,0 +1,57 @@
+# 遠藤フビト/グランブルーファンタジー – ジ・アルティメット
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+<♪>
+Heaven's torn asunder,
+and chaos tumbles down
+The world turns crimson.
+The stirring begins.
+It thrashes, it crashes
+into the land.
+And into the skies it rises.
+<♪>
+In the empty sky is
+an inferno for me.
+In the world beyond
+is redemption.
+I weep alone
+in a world abandoned.
+I weep alone
+in a world abandoned.
+Rebirth and destruction,
+here at my command.
+Rebirth and destruction,
+again and again.
+Rebirth and destruction,
+here at my command.
+Rebirth and destruction,
+again and again.
+<間奏>
+Stay blue,
+stay blue,
+stay blue!
+I've seen too much blood,
+and the flames
+have charred me through.
+Protect the sprawling blue.
+Keep it ever clear and pure.
+<♪>
+Rebirth and destruction,
+here at my command.
+Rebirth and destruction,
+again and again.
+その威光 白金の如し
+天地鳴動 咆哮轟く
+無限の空に 光一筋
+人も獣も 等しく
+瞳に閉じ込めた
+果てなき旅路
+光を追って 彼方を目指す
+神話の終わりに 目を閉じ
+新たな夢を見よう
+神話の終わりに 目を閉じ
+新たな夢を見よう
+<♪>
+```
