@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ジ・アルティメット",
+  "base_artist": "遠藤フビト/グランブルーファンタジー",
+  "createdAt": "2026-03-23T01:40:59.971278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジ・アルティメット",
+      "artist": "Cygames",
+      "has_synced": true,
+      "path": "select/01_ジ・アルティメット_Cygames.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジ・アルティメット",
+      "artist": "成田勤",
+      "has_synced": true,
+      "path": "select/02_ジ・アルティメット_成田勤.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジ・アルティメット",
+      "artist": "遠藤フビト/グランブルーファンタジー",
+      "has_synced": false,
+      "path": "select/pl_01_ジ・アルティメット_遠藤フビト_グランブルーファンタジー.txt"
+    }
+  ]
+}
